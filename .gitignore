@@ -1,0 +1,12 @@
+#  Data
+output/
+Vertebrae/
+Femur
+
+# ckpt
+ckpt/
+
+# wandb
+wandb/
+
+*.pth
